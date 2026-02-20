@@ -4,3 +4,7 @@
 message = "Hello, I am "
 age = 20.523
 print(message + str(int(age)) + " years old")
+
+"""
+连续的两次转化
+"""

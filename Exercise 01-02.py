@@ -19,3 +19,5 @@ def food():
 
 
 print(food())
+
+#此时如果把print里面嵌套print函数就会输出None，因为print作为函数没有返回值，他的作用是显示输入的部分
